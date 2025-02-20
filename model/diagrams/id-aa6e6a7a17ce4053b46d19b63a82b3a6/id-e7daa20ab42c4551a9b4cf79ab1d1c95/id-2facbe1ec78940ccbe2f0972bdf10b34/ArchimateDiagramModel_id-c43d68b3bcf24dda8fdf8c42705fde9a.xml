@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fa7f450707ff481d94d943bc0a59ddfe"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#ff8694">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-6cd3c93028e14aab9a0e2a422201ec1d"
@@ -63,8 +64,8 @@
           href="CompositionRelationship_id-ac4afe86bb954893a60294b50a62254d.xml#id-ac4afe86bb954893a60294b50a62254d"/>
     </sourceConnections>
     <bounds
-        x="323"
-        y="217"
+        x="48"
+        y="240"
         width="962"
         height="528"/>
     <children
@@ -208,12 +209,25 @@
       id="id-e6f3874b3f1d4f41a78f8ba7c99912c7"
       targetConnections="id-4429381381134f838ed5f9fad8db7e4c">
     <bounds
-        x="708"
-        y="108"
+        x="433"
+        y="131"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-a9b66c4442cc43f2bb74cac0321a7b04.xml#id-a9b66c4442cc43f2bb74cac0321a7b04"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-86e1b91d1391438baa936a5ced39ed98"
+      font="1|Lucida Grande|36.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      fillColor="#ff766f"
+      content="DIRECTION STRATEGIE, COMMUNICATION, PARTENARIATS ET INNOVATION&#xA;">
+    <bounds
+        x="36"
+        y="48"
+        width="1261"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>

@@ -1965,4 +1965,17 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_id-fa2f578b62f04c378f9c97eb0cedc2b4.xml#id-fa2f578b62f04c378f9c97eb0cedc2b4"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-34a7749b13b54d7f90541c135dfa3865"
+      font="1|Lucida Grande|36.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      fillColor="#ff766f"
+      content="CARTOGRAPHIE DES ACTIVITES">
+    <bounds
+        x="96"
+        y="12"
+        width="709"
+        height="61"/>
+  </children>
 </archimate:ArchimateDiagramModel>

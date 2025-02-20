@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-b0bc826182704e038d2e278193553d03"
-      textAlignment="1">
+      textAlignment="1"
+      fillColor="#b1ffae">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-7b8ca28c82044a2893a1972e20dcd60d"
@@ -171,7 +172,7 @@
           href="CompositionRelationship_id-15afa62301b64b65a3ddd3cc02927826.xml#id-15afa62301b64b65a3ddd3cc02927826"/>
     </sourceConnections>
     <bounds
-        x="372"
+        x="276"
         y="240"
         width="1165"
         height="1189"/>
@@ -976,12 +977,25 @@
       id="id-98be3b3ff9b548369cfea0eb4d01ce0a"
       targetConnections="id-93cbc6fc62644bbcbbdb0f81bdf79d64">
     <bounds
-        x="168"
+        x="72"
         y="300"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-a9b66c4442cc43f2bb74cac0321a7b04.xml#id-a9b66c4442cc43f2bb74cac0321a7b04"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e96503f988f54fb68a8dd078ea838fe0"
+      font="1|Lucida Grande|36.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      fillColor="#ff766f"
+      content="DIRECTION CLIENTS ET PATRIMOINE&#xA;">
+    <bounds
+        x="36"
+        y="36"
+        width="709"
+        height="61"/>
   </children>
 </archimate:ArchimateDiagramModel>
